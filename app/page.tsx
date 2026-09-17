@@ -159,8 +159,7 @@ export default function Home() {
           <span className="section-kicker">05 / download</span>
           <h2>DropMesh will be ready to download here.</h2>
           <p>
-            The call-to-action is intentionally empty for now, ready for the
-            final installer, store link, or release artifact when you publish.
+            
           </p>
         </div>
         <a className="download-button" href="" aria-label="Download DropMesh">
